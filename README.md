@@ -1,5 +1,4 @@
 ## Currently working on:
-- [Consumer Loans ML Project](https://github.com/krukj/Consumer-Loans-ML-Project.git)
 - [ML-Synthea-lung-cancer-prediction](https://github.com/krukj/ML-Synthea-lung-cancer-prediction.git)
 
 
