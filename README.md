@@ -1,5 +1,4 @@
 ## Currently working on:
-- [ML-Synthea-lung-cancer-prediction](https://github.com/krukj/ML-Synthea-lung-cancer-prediction.git)
 
 
 <!---
